@@ -90,4 +90,4 @@ Passionate about Competitive Programming, Data Structures & Algorithms, and buil
 
 ### 💡 Favorite Quote
 
-> **"First, solve the problem. Then, write the code."** – John Johnson
+> **The journey is more beautiful than the destination.**
