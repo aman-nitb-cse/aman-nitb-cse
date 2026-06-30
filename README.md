@@ -1,24 +1,93 @@
 # Hi 👋, I'm Aman Kumar Patel
 
-### Competitive Programmer
+<h3 align="center">🏆 Competitive Programmer | B.Tech CSE @ MANIT Bhopal</h3>
 
-- 🌱 I'm currently learning **Full Stack Development**
-
-- 💬 Ask me about **DSA, Competitive Programming**
-
-- 📫 How to reach me **aman.nit.bhopal.28@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/aman-nitb-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="aman-nitb-cse" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aman-nitb-cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-nitb-cse" height="30" width="40" /></a>
-<a href="https://instagram.com/aman_nitb_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aman_nitb_cse" height="30" width="40" /></a>
-<a href="https://twitter.com/aman_nitb_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aman_nitb_cse" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aman_nitb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aman_nitb" height="30" width="40" /></a>
-<a href="https://leetcode.com/aman_nitb_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aman_nitb_cse" height="30" width="40" /></a>
-<a href="https://discord.gg/aman_nitb_cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aman_nitb_cse" height="30" width="40" /></a>
+<p align="center">
+Passionate about Competitive Programming, Data Structures & Algorithms, and building efficient solutions in C++.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a></p>
+<p align="center">
+<a href="https://leetcode.com/aman_nitb_cse">
+<img src="https://img.shields.io/badge/LeetCode-2000%2B%20Rating-orange?style=for-the-badge&logo=leetcode"/>
+</a>
+<a href="https://leetcode.com/aman_nitb_cse">
+<img src="https://img.shields.io/badge/Problems%20Solved-1000%2B-brightgreen?style=for-the-badge"/>
+</a>
+</p>
 
+---
+
+## 🚀 Competitive Programming
+
+- 🏆 Solved **1000+ Problems** on LeetCode
+- ⭐ Achieved **2000+ LeetCode Contest Rating**
+- 💻 Strong in **Data Structures & Algorithms**
+- ⚡ Love solving challenging algorithmic problems
+- 🌱 Currently learning **Full Stack Development**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+<a href="https://github.com/aman-nitb-cse" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="45"/>
+</a>
+<a href="https://linkedin.com/in/aman-nitb-cse" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+<a href="https://codeforces.com/profile/aman_nitb" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" height="45"/>
+</a>
+<a href="https://leetcode.com/aman_nitb_cse" target="_blank">
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg" height="45"/>
+</a>
+<a href="https://instagram.com/aman_nitb_cse" target="_blank">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+<a href="https://twitter.com/aman_nitb_cse" target="_blank">
+<img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+</a>
+</p>
+
+---
+
+## 🛠 Languages & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,c,python,git,github,vscode,html,css,js" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aman-nitb-cse&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-nitb-cse&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=aman-nitb-cse&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-nitb-cse&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Contact
+
+- 📧 **Email:** aman.nit.bhopal.28@gmail.com
+- 💬 **Ask me about:** Competitive Programming, DSA, C++
+
+---
+
+### 💡 Favorite Quote
+
+> **"First, solve the problem. Then, write the code."** – John Johnson
