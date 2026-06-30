@@ -59,16 +59,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aman-nitb-cse&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-nitb-cse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=aman-nitb-cse&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman-nitb-cse&theme=onedark&no-frame=true&row=1&column=7&margin-w=8" alt="GitHub Trophies"/>
 </p>
 
 ### 📈 Contribution Graph
@@ -97,8 +88,7 @@ Always happy to talk Competitive Programming, DSA, or C++ — feel free to reach
 
 ### 💡 Favorite Quote
 
-> *"First, solve the problem. Then, write the code."*
-> — John Johnson
+> *“The journey is more beautiful than the destination.”*
 
 </div>
 
